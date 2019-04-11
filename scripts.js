@@ -1,4 +1,4 @@
-advise_url = "http://sf-pyw.mosyag.in/m04/api/forecasts"
+advise_url = "https://sf-pyw.mosyag.in/m04/api/forecasts"
 
 $("#main-header-1").click(function() {
 
